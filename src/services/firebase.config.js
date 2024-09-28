@@ -6,7 +6,7 @@ import { getFirestore } from "firebase/firestore";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-const firebaseConfig = {
+const config = {
   apiKey: "AIzaSyDxXqfMjlmIAMXelFJDqXL3_kaQhVQcNuM",
   authDomain: "todo-8f32c.firebaseapp.com",
   projectId: "todo-8f32c",
